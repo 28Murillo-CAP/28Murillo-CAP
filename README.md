@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, Meu nome é Murillo
+sou flamenguista
 
 <!--
 **28Murillo-CAP/28Murillo-CAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Alt](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt40367bff2ccf528f/60dc345496e07e0f6e561c67/a5223dec1814c9ce5e545796c3b81edb1909a067.png?auto=webp&format=pjpg&width=3840&quality=600)
+Ese flamengo éra muito top
+
+
+### Sou o N28 da chamada do colégio CAP
+
+![Alt](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif)
