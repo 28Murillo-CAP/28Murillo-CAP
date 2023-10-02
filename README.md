@@ -1,24 +1,9 @@
 ### Hi there 👋, Meu nome é Murillo
 sou flamenguista
 
-<!--
-**28Murillo-CAP/28Murillo-CAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 14 anos
 
-Here are some ideas to get you started:
+Sou o N28 da chamada do colégio CAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Alt](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt40367bff2ccf528f/60dc345496e07e0f6e561c67/a5223dec1814c9ce5e545796c3b81edb1909a067.png?auto=webp&format=pjpg&width=3840&quality=600)
-Ese flamengo éra muito top
-
-
-### Sou o N28 da chamada do colégio CAP
-
-![Alt](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif)
+![image](https://github.com/28Murillo-CAP/28Murillo-CAP/assets/137806071/fc1c1729-7e63-4906-aa6d-b4a3fede9e00)
+!
